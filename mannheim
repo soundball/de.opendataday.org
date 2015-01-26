@@ -1,0 +1,12 @@
+---
+layout: city
+name: Mannheim
+eventTitle: Open Data Day 2015 Rhein-Neckar
+lat: 49.4954630
+lng: 8.4575230
+where: '<a href="http://oddrnh15.eu">ODDRNH15</a> 
+when: 'Freitag, 20. Februar 14 Uhr – 20 Uhr | Samstag, 21. Februar | 09.00 Uhr – 19 Uhr'
+tags:
+- event
+published: true
+---
